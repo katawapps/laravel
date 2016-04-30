@@ -9,6 +9,10 @@
 <body>
 	
 	<h1>BIENVENIDO A LA REUNION MESUAL DE LARAVEL</h1>
+
+	<img src="img/GIT..png" alt="">
+	<img src="img/GITHUB.png" alt="">
+	<img src="img/heroku.png" alt="">
 	
 </body>
 </html>
